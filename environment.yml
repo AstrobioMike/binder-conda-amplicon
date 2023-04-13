@@ -7,4 +7,3 @@ channels:
 dependencies:
   - fastqc=0.11.9
   - multiqc=1.12
-  - bit
